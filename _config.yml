@@ -1,10 +1,10 @@
 # Site settings
 title: Tunisia × Tech × Podcasts
 email: hello@algora-labs.com
-description: Actualité technologique
+description: Tunisia × Tech × Podcasts
 baseurl: "/"
 url: "https://tunisiatech.algora-labs.com"
-copyright: '&copy; 2019-present AlgoraLabs'
+copyright: '&copy; 2019-present AlgoraLabs. All rights reserved. '
 
 # Build settings
 markdown: kramdown
