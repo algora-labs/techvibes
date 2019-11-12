@@ -40,6 +40,6 @@ exclude:
   - README.md
   - CNAME
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-redirect-from
