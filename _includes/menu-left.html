@@ -1,6 +1,8 @@
 <div class="mdl-layout__drawer menu-left-extra">
     <div class="mdl-layout-title menu-left-title-extra">
         <h4>Explore</h4>
+        <p>&nbsp;</p>
+        <img src="{{ '/favicon.png' | prepend: site.baseurl }}">
     </div>
     <nav class="mdl-navigation">
         <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
@@ -9,6 +11,6 @@
         <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
         {% endfor %}
-        <a class="mdl-navigation__link" href="{{ site.baseurl }}/feed">RSS feed</a>
+        <a class="mdl-navigation__link" href="{{ site.baseurl }}/feed.xml">RSS feed</a>
     </nav>
 </div>
