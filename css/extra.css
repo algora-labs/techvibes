@@ -1,11 +1,49 @@
+.pagination {
+    text-align: center;
+    padding: 25px;
+}
+
+.card-comment-extra {
+    text-align: right;
+}
+
+.card-comment-extra a {
+    font-weight: bold;
+    color: #2b2a2a;
+}
+
+.layout-subtitle-extra {
+    position: relative;
+    font-weight: bold;
+    color: red !important;
+}
+
+.mdl-layout__header {
+    background-color: black;
+}
+
+.mdl-layout-title {
+    color:white;
+}
+
 .menu-left-extra {
     border-right: none;
 }
 
 .menu-left-title-extra {
-    color:white;
     padding-top: 50%;
-    background-color:rgb(103,58,183);
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-left-title-extra h4 {
+    color:white;
+}
+
+.menu-left-title-extra img {
+    max-width: 25px;
+    max-height: 25px;
 }
 
 .post-image-extra {
@@ -18,4 +56,8 @@
     width: 100%;
     height: 100%;
     margin: -12.5% 0 -12.5% 0;
+}
+
+body {
+    background-color: #2b2a2a;
 }
