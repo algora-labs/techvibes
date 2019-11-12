@@ -10,6 +10,15 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
   <article class="post-content">
+    <div>
+      <h4>A propos de ce post</h4>
+      <p><strong>Titre: </strong>{{ page.title }}</p>
+      <p><strong>Lien brute: </strong>{{ page.link }}</p>
+      <p><strong>Source: </strong>{{ page.source }}</p>
+      <p><strong>Tags: </strong>{{ page.categories }}</p>
+    </div>
     {{ content }}
+    <br>
+    {% include disqus.html %}
   </article>
 </div>
