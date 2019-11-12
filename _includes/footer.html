@@ -3,7 +3,7 @@
         <p>
             {{ site.description }} | <a href="{{ site.baseurl }}/">Home</a>
             {% for page in site.pages %}
-            {% if page.title %}
+            {% if page.title and page.title != "404 - Not Found" %}
              | <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             {% endif %}
             {% endfor %}

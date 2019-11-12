@@ -7,7 +7,7 @@
     <nav class="mdl-navigation">
         <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
         {% for page in site.pages %}
-        {% if page.title %}
+        {% if page.title and page.title != "404 - Not Found" %}
         <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
         {% endfor %}
