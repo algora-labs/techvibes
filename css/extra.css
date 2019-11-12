@@ -59,6 +59,14 @@ a:active, a:focus {
     max-height: 25px;
 }
 
+.post-title {
+    padding-top: 75px;
+}
+
+.post-meta {
+    padding-bottom: 15px;
+}
+
 .post-image-extra {
     width: 100%;
     height: 50%;
