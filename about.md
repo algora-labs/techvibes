@@ -10,7 +10,7 @@ WIP
 
 ### A propos
 
-TunisiaTech ![TunisiaTech]({{ site.baseurl }}/favicon.png "TunisiaTech") est un aggrégateur de podcasts (enregistrements audio ou vidéo) technologiques qui vous propose un endroit unique pour retouver l'actualité technologique dans le nord d'afrique, et la Tunisie en particulier.
+TunisiaTech <img src="{{ site.baseurl }}/favicon.png" alt="TunisiaTech Podcasts" width="25"/> est un aggrégateur de podcasts (enregistrements audio ou vidéo) technologiques qui vous propose un endroit unique pour retouver l'actualité technologique dans le Nord d'Afrique, et la Tunisie en particulier.
 
 ### Modèle économique
 
