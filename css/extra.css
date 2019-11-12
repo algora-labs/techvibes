@@ -1,3 +1,10 @@
+a:active, a:focus {
+    outline: 0;
+    border: none;
+    -moz-outline-style: none;
+    outline-style: none;
+}
+
 .notfound {
     color: white;
     text-align: center;
@@ -6,7 +13,7 @@
 
 .pagination {
     text-align: center;
-    padding: 25px;
+    padding-bottom: 20px;
 }
 
 .card-comment-extra {
