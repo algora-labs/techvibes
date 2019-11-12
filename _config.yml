@@ -1,5 +1,6 @@
 # Site settings
-title: Tunisia × Tech × Podcasts
+title: Technology × Podcasts
+subtitle: from Tunisia
 email: hello@algora-labs.com
 description: Tunisia × Tech × Podcasts
 baseurl: ""
@@ -10,7 +11,33 @@ copyright: '&copy; 2019-present AlgoraLabs. All rights reserved. '
 markdown: kramdown
 
 # https://getmdl.io/customize/index.html
-material_theme: red-deep_orange
+material_theme: teal-deep_orange
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
-#google-analytics-ua: UA-84475574-1
+#google-analytics-ua: UA-131380622-4
+
+# Disqus shortname (not your username), without adding disqus.com at the end
+#disqus: tunisiatech
+
+# Format links
+permalink: /:title/
+paginate_path: /page:num/
+
+# Pagination
+paginate: 9
+
+# Use the following plugins
+plugins_dir:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+gems: [jekyll-paginate]
