@@ -47,7 +47,7 @@
     color:white;
 }
 
-.menu-left-title-extra img {
+.pagination-separator img, .menu-left-title-extra img {
     max-width: 25px;
     max-height: 25px;
 }

@@ -18,6 +18,9 @@
                   </a>
                 </span>
               {% endif %}
+              {% if paginator.previous_page and paginator.next_page %}
+                <span class="pagination-separator">&nbsp;&nbsp;<img src="{{ '/favicon.png' | prepend: site.baseurl }}">&nbsp;&nbsp;</span>
+              {% endif %}
               {% if paginator.next_page %}
                 <span class="next">
                   <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
