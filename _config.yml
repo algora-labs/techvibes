@@ -27,10 +27,7 @@ paginate_path: /page:num/
 paginate: 9
 
 # Use the following plugins
-plugins_dir:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate
+plugins_dir: ./_scripts
 
 # Exclude these files from your production _site
 exclude:
@@ -43,3 +40,8 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
