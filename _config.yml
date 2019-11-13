@@ -15,10 +15,10 @@ markdown: kramdown
 material_theme: teal-deep_orange
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
-#google-analytics-ua: UA-131380622-4
+google-analytics-ua: UA-131380622-4
 
 # Disqus shortname (not your username), without adding disqus.com at the end
-#disqus: tunisiatech
+disqus: tunisiatech
 
 # Format links
 permalink: /:title/
