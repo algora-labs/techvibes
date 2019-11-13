@@ -21,8 +21,8 @@ google-analytics-ua: UA-131380622-4
 disqus: tunisiatech
 
 # Format links
-permalink: /:title/
-paginate_path: /page:num/
+permalink: /podcasts/:title/
+paginate_path: /podcasts/:num/
 
 # Pagination
 paginate: 9
