@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
       <div class="post-card mdl-shadow--2dp">
-        <a href="{{ post.url | prepend: site.baseurl }}">
+        <a href="{{ post.link }}" target="_blank">
           <img src="{{ site.baseurl }}/assets/images/{{ post.image }}"/>
           <div class="mdl-card__title">
             <h4 class="mdl-card__title-text">{{ post.title }}</h4>
@@ -20,9 +20,11 @@ layout: default
           </div>
           <!--<div class="post-card__fade"></div>-->
         </a>
-        <div class="mdl-card__supporting-text card-comment-extra">
-            <a href="{{ post.url | prepend: site.baseurl }}">Commenter</a>
-        </div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="mdl-card__supporting-text card-comment-extra">
+              Commenter &#8594;
+          </div>
+        </a>
       </div>
   </div>
   {% endfor %}
