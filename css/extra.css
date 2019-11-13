@@ -1,3 +1,14 @@
+.prev, .next {
+    font-weight: bold;
+    font-size: large;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.prev a:hover, .next a:hover{
+    color: red;
+}
+
 a:active, a:focus {
     outline: 0;
     border: none;
@@ -13,6 +24,7 @@ a:active, a:focus {
 
 .pagination {
     text-align: center;
+    padding-top: 10px;
     padding-bottom: 20px;
 }
 
