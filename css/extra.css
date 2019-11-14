@@ -88,6 +88,10 @@ a:active, a:focus {
     margin: -12.5% 0 -12.5% 0;
 }
 
+.wrapper {
+    min-height: calc(100vh);
+}
+
 body {
     background-color: #2b2a2a;
 }
