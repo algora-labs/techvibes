@@ -12,6 +12,8 @@ WIP
 
 Techvibes <img src="{{ site.baseurl }}/favicon.png" alt="Techvibes Podcasts" width="25"/> est un aggrégateur de podcasts (enregistrements audio ou vidéo) technologiques qui vous propose un endroit unique pour retrouver l'actualité technologique dans l'Afrique du Nord, et le Moyen Orient.
 
+Techvibes est un site multilingue, le contenu partagé etant en Anglais, Français ou Arabe.
+
 ### Modèle économique
 
 Gratuit à vie.
