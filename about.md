@@ -10,11 +10,15 @@ WIP
 
 ### A propos
 
-TunisiaTech <img src="{{ site.baseurl }}/favicon.png" alt="TunisiaTech Podcasts" width="25"/> est un aggrégateur de podcasts (enregistrements audio ou vidéo) technologiques qui vous propose un endroit unique pour retouver l'actualité technologique dans le Nord d'Afrique, et la Tunisie en particulier.
+Techvibes <img src="{{ site.baseurl }}/favicon.png" alt="Techvibes Podcasts" width="25"/> est un aggrégateur de podcasts (enregistrements audio ou vidéo) technologiques qui vous propose un endroit unique pour retrouver l'actualité technologique dans l'Afrique du Nord, et le Moyen Orient.
 
 ### Modèle économique
 
 Gratuit à vie.
+
+### Règlement Général sur la Protection des Données (GRPD)
+
+En utilisant ce site, vous acceptez l'utilisation de quelques cookies qui serviront à faire quelques statistiques sur le contenu partagé afin de l'améliorer.
 
 ### Plus d'infos
 
