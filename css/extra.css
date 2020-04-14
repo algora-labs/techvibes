@@ -101,6 +101,6 @@ body {
     padding: 16px 16px;
 }
 
-mdl-mini-footer__left-section p div {
+.mdl-mini-footer__left-section p div {
     margin: 0px;
 }
