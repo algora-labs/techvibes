@@ -38,6 +38,7 @@ a:active, a:focus {
     position: relative;
     font-weight: bold;
     color: red !important;
+    font-size: 12px;
 }
 
 .mdl-layout__header {
@@ -94,4 +95,12 @@ a:active, a:focus {
 
 body {
     background-color: #2b2a2a;
+}
+
+.mdl-mini-footer {
+    padding: 16px 16px;
+}
+
+mdl-mini-footer__left-section p div {
+    margin: 0px;
 }
