@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'DroidArabicKufiRegular';
+    src: url('/assets/fonts/DroidArabicKufiRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AssailandRegular';
+    src: url('/assets/fonts/AssailandRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .prev, .next {
     font-weight: bold;
     font-size: large;
@@ -8,6 +22,7 @@
 
 a {
     color: red;
+    text-decoration: none;
 }
 
 a:hover{
@@ -75,7 +90,7 @@ a:active, a:focus {
 }
 
 .post-title {
-    padding-top: 75px;
+    padding-top: 0px;
 }
 
 .post-meta {
@@ -127,4 +142,22 @@ hr {
     border-top: 1px solid rgb(215, 215, 215);
     margin: -1px 5px -2px 5px;
     padding: 0;
+}
+
+.mdl-layout-title, .layout-subtitle-extra, .mdl-card__title-text, html, body, h1, h2, h3, h4 {
+    font-family: "DroidArabicKufiRegular", "AssailandRegular","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.mdl-card__title-text {
+    line-height: 32px;
+}
+
+.card-comment-extra {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.mdl-navigation__link {
+    font-size: 16px;
 }
