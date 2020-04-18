@@ -90,7 +90,7 @@ a:active, a:focus {
 }
 
 .post-title {
-    padding-top: 0px;
+    padding-top: 45px;
 }
 
 .post-meta {
@@ -160,4 +160,10 @@ hr {
 
 .mdl-navigation__link {
     font-size: 16px;
+}
+
+li:before {
+    content: '\1F525';
+    margin-left: -20px;
+    margin-right: 10px;
 }
