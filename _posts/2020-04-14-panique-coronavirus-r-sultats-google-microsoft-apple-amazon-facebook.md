@@ -4,7 +4,7 @@ title: "Panique Coronavirus 🤒😱 ! Résultats Google, Microsoft, Apple, Amaz
 link: https://media.blubrry.com/tech_caf/p/episodes.guillaumevende.fr/techcafe/164.mp3?_=1
 podcast_source: techcafe.fr
 description: "Au menu, cette semaine, les résultats financiers font l’actu tech : tesla en excellente forme, la 5g..."
-categories: "amazon, apple, facebook, huawei, jeux_video, microsoft, mozilla, nintendo, samsung, santé, sécurité, tesla, xboxcoronavirus, covid-19, gafam, google, amazon, facebook, apple, microsoft, techcafe.fr"
+categories: "amazon apple facebook huawei jeux_video microsoft mozilla nintendo samsung santé sécurité tesla xboxcoronavirus covid-19 gafam google techcafe.fr"
 image: covid-19.png
 podcast_author: "Tech Café"
 podcast_date: 2020-02-04 00:00:00
