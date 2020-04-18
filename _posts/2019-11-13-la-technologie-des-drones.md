@@ -6,6 +6,6 @@ podcast_source: radioexpressfm.com
 date: 2019-11-13 13:15:00
 description: 
 categories: drone agriculture logistique intelligence-artificielle
-image: hightech.png
+image: high-tech.png
 author: algorabot
 ---
