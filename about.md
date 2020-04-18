@@ -6,7 +6,9 @@ permalink: /about/
 
 ### Status du projet
 
-WIP
+Version: Beta
+
+Release date: 19th April, 2020
 
 ### A propos
 
