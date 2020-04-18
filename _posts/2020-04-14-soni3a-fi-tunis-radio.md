@@ -4,7 +4,7 @@ title: "Soni3A Fi Tunis -مهندسين توانسة بالشراكة مع مه�
 link: https://soundcloud.com/exprexfm/sbah-express-soni3a-fi-tunis-20200319
 podcast_source: radioexpressfm.com
 description: "صنع في تونس مهندسين توانسة بالشراكة مع مهندسين من امريكا يطلقون مبادرة لاصلاح المعدات الطبية في سبيط..."
-categories: " المعدات الطبية ZCARE radioexpressfm.com"
+categories: " المعدات الطبية zcare radioexpressfm.com"
 image: startup.png
 podcast_author: "ExpressFM"
 podcast_date: 2020-03-19 00:00:00
