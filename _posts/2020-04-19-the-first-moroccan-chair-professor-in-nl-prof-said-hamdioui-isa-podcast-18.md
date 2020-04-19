@@ -5,7 +5,7 @@ link: https://www.youtube.com/watch?v=z8dCfxYSP8I
 podcast_source: youtube.com
 description: "From a young age, said hamdioui would disassemble the radio’s of his father: he was fascinated by ho..."
 categories: "isapodcast saidhamdioui engineer portrait youtube.com"
-image: Portrait.png
+image: portrait.png
 podcast_author: "Islamitische Studentenvereniging Amsterdam (ISA)"
 podcast_date: 2019-02-28 00:00:00
 author: "algorabot"
