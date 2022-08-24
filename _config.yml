@@ -3,8 +3,8 @@ title: Business × Technology × Podcasts
 subtitle: from Tunisia
 email: hello@algora-labs.com
 description: Podcast aggregator for technology fans and professionals
-baseurl: ""
-url: "https://algora-labs.github.io/techvibes"
+baseurl: "/techvibes"
+url: "https://algora-labs.github.io"
 copyright: '&copy; 2019-present AlgoraLabs. All rights reserved. '
 logo: /assets/images/logo.png
 
